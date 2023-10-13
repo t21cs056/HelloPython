@@ -27,4 +27,4 @@ def quick_sort(data):
 if __name__ == '__main__':
     DATA = [6, 15, 4, 2, 8, 5, 11, 9, 7, 13]
 
-    print(f"{DATA} → {quick_sort(DATA)}")
+    print(f"結果を表示 {DATA} → {quick_sort(DATA)}")
